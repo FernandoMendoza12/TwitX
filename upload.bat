@@ -1,3 +1,3 @@
 git add . 
-git commit -m "Logic for handler and main"
+git commit -m "Added process token logic and claims"
 git push
